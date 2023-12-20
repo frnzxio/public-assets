@@ -1,6 +1,6 @@
 {
   "name": "frnzx-public-assets",
-  "version": "1.0.1-pre.0",
+  "version": "1.0.1-pre.1",
   "description": "fetch assets via `https://raw.githubusercontent.com/frnzxio/public-assets/main/{assets name}`",
   "main": "index.js",
   "scripts": {
