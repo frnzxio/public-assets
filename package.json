@@ -1,0 +1,11 @@
+{
+  "name": "frnzx-public-assets",
+  "version": "1.0.1-pre.0",
+  "description": "fetch assets via `https://raw.githubusercontent.com/frnzxio/public-assets/main/{assets name}`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nadi",
+  "license": "ISC"
+}
